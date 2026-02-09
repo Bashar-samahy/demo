@@ -1,2 +1,3 @@
-Version2: Hello Git
+Version3: Hello Git
+fix bugs
 Add new feature
