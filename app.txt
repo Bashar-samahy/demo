@@ -1,1 +1,2 @@
-Version1: Hello Git
+Version2: Hello Git
+Add new feature
